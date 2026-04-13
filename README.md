@@ -59,10 +59,10 @@ PROJECTS SECTION (COMMENTED OUT)
 
 ---
 
-<!-- SNAKE -->
+<!-- SNAKE 
 ### 🐍 Contribution Graph
 ![snake gif](https://github.com/vansh2002/vansh2002/blob/output/github-contribution-grid-snake.svg)
-
+-->
 ---
 
 <!-- FOOTER -->
