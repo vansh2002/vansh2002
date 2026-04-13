@@ -35,7 +35,8 @@ I build scalable backend systems and solve complex problems using strong DSA fun
 
 ---
 
-<!-- STATS -->
+<!--
+STATS SECTION (COMMENTED OUT)
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vansh2002&show_icons=true&theme=tokyonight" />
@@ -44,14 +45,17 @@ I build scalable backend systems and solve complex problems using strong DSA fun
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vansh2002&theme=tokyonight" />
 </p>
+-->
 
 ---
 
-<!-- PROJECTS -->
+<!--
+PROJECTS SECTION (COMMENTED OUT)
 ### 🚀 Featured Projects
 - 🔹 Add your best backend project here
 - 🔹 Add API / system design project
 - 🔹 Add 1–2 strong DSA or real-world apps
+-->
 
 ---
 
@@ -65,18 +69,3 @@ I build scalable backend systems and solve complex problems using strong DSA fun
 <p align="center">
   ⭐️ From <b>Vansh</b> — Building. Learning. Growing.
 </p>
-
-<!--
-**vansh2002/vansh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
