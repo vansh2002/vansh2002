@@ -68,5 +68,5 @@ PROJECTS SECTION (COMMENTED OUT)
 
 <!-- FOOTER -->
 <p align="center">
-  ⭐️ From <b>Vansh</b> — Building. Learning. Growing.
+  ⭐️ Building. Learning. Growing.
 </p>
