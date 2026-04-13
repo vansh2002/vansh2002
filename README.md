@@ -33,6 +33,7 @@ I build scalable backend systems and solve complex problems using strong DSA fun
   <img src="https://img.shields.io/badge/Backend-%23007ACC?style=for-the-badge"/>
 </p>
 
+<!--
 ---
 
 <!--
@@ -45,9 +46,9 @@ STATS SECTION (COMMENTED OUT)
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vansh2002&theme=tokyonight" />
 </p>
--->
 
 ---
+-->
 
 <!--
 PROJECTS SECTION (COMMENTED OUT)
@@ -55,7 +56,7 @@ PROJECTS SECTION (COMMENTED OUT)
 - 🔹 Add your best backend project here
 - 🔹 Add API / system design project
 - 🔹 Add 1–2 strong DSA or real-world apps
--->
+
 
 ---
 
